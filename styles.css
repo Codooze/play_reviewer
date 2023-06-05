@@ -33,3 +33,9 @@
     font-size: 1.75rem;
   }
 }
+
+@media (min-width: 992px) {
+  .video__container {
+    font-size: 2rem;
+  }
+}
